@@ -29,6 +29,7 @@
 [<img align="left" alt="Kamil-Herbetko" width="47" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/gmail.png" />][gmail]
 
 <br />
+<br />
 
 ### Languages and Tools:
 <div align="left">
