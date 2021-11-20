@@ -52,10 +52,10 @@
 
 ### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/python.png" alt="website" width="30"/><a href="https://github.com/Kamil-Herbetko/My_Repository/tree/master/FlappyBirdAI"> Flappy Bird AI with NEAT</a>
 ### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/python.png" alt="website" width="30"/><a href="https://github.com/Kamil-Herbetko/My_Repository/tree/master/Sudoku_Solver"> Sudoku solver</a>
+### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/python.png" alt="website" width="30"/><a href="https://github.com/Kamil-Herbetko/Pathfinding_algorythm"> A* pathfinding alogrithm </a>
 
 ## Working on:
 ### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/python.png" alt="website" width="30"/><img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/discord.png" alt="website" width="30"/><a href="https://github.com/Kamil-Herbetko/My_Repository/tree/master/Discord_Bots"> Discord music bot using rewrite</a>
-### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/python.png" alt="website" width="30"/><a href="https://github.com/Kamil-Herbetko/Pathfinding_algorythm"> A* pathfinding alogrithm </a>
 ### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/ocaml.png" alt="website" width="30"/><img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/scala.png" alt="website" width="20"/><a href="https://github.com/Kamil-Herbetko/Programming-Paradigms-Practice"> Programming paradigms - practice</a>
 ### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/ocaml.png" alt="website" width="30"/><img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/scala.png" alt="website" width="20"/><a href="https://github.com/Kamil-Herbetko/Programming-Paradigms-Lab"> Programming paradigms - laboratory</a>
 
