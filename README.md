@@ -4,7 +4,7 @@
 - 🔭 I am working on django project right now!
 - 🌱 I’m currently learning a lot of things 🤔
 - 👯 I’m looking to collaborate with people who share the same interests
-- 🥅 2022 Goals: Fill up my github with many great projects and learn from experienced developers! 💪💪💪
+- 🥅 2023 Goals: Fill up my github with many great projects and learn from experienced developers! 💪💪💪
 - ⚡ Fun fact: I designed and built my personal desktop on my own 💻
 
 ## My github stats:
