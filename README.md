@@ -1,11 +1,10 @@
 # Welcome! I'm Kamil and this is my github repository. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## I'm a Student, Developer, and Computer Enthusiast!!
+## I'm a Student, SW Engineer, and Computer Enthusiast!!
 
-- 🔭 I am working on django project right now!
+- 🔭 I am working on quite a bit of project. Stay tuned!
 - 🌱 I’m currently learning a lot of things 🤔
-- 👯 I’m looking to collaborate with people who share the same interests
-- 🥅 2023 Goals: Fill up my github with many great projects and learn from experienced developers! 💪💪💪
-- ⚡ Fun fact: I designed and built my personal desktop on my own 💻
+- 🥅 2024/2025 Goals: Get my Master Degree, stay productive at work and broaden my SW Engineer skills 💪💪💪
+- ⚡ Fun fact: I am also familiar with building computers!
 
 ## My github stats:
 <table>
@@ -22,7 +21,6 @@
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code" width="430"/>
 
 ### Connect with me:
-[<img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/website.png" alt="website" width="40"/>][website]
 [<img align="left" alt="Kamil-Herbetko" width="40" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/linkedin.png"/>][linkedin]
 [<img align="left" alt="Kamil-Herbetko" width="40" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/discord.png" />][discord]
 [<img align="left" alt="Kamil-Herbetko" width="40" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/facebook.png" />][facebook]
@@ -54,20 +52,19 @@
 ### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/python.png" alt="website" width="30"/><a href="https://github.com/Kamil-Herbetko/My_Repository/tree/master/Sudoku_Solver"> Sudoku solver</a>
 ### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/python.png" alt="website" width="30"/><a href="https://github.com/Kamil-Herbetko/Pathfinding_algorythm"> A* pathfinding alogrithm </a>
 
-## Working on:
+## Currently working on: Contact me to find out!
+
+## Suspended for now:
 ### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/python.png" alt="website" width="30"/><a href="https://github.com/Kamil-Herbetko/GPU-Best-Prices-Web-Scraper"> Best GPU Prices - basic web scraper</a>
 ### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/python.png" alt="website" width="30"/><img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/discord.png" alt="website" width="30"/><a href="https://github.com/Kamil-Herbetko/My_Repository/tree/master/Discord_Bots"> Discord music bot using rewrite</a>
-### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/ocaml.png" alt="website" width="30"/><img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/scala.png" alt="website" width="20"/><a href="https://github.com/Kamil-Herbetko/Programming-Paradigms-Practice"> Programming paradigms - practice</a>
-### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/ocaml.png" alt="website" width="30"/><img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/scala.png" alt="website" width="20"/><a href="https://github.com/Kamil-Herbetko/Programming-Paradigms-Lab"> Programming paradigms - laboratory</a>
 
 ## Finished, but not really projects:
 ### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/python.png" alt="website" width="30"/><img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/numpy.png" alt="website" width="30"/><img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/tensorflow.png" alt="website" width="30"/><a href="https://github.com/Kamil-Herbetko/My_Repository"> General python repo</a>
 ### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/java.png" alt="website" width="30"/><a href="https://github.com/Kamil-Herbetko/My_Repository"> General java repo</a>
+### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/ocaml.png" alt="website" width="30"/><img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/scala.png" alt="website" width="20"/><a href="https://github.com/Kamil-Herbetko/Programming-Paradigms-Lab"> Programming paradigms - laboratory</a>
+### <img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/ocaml.png" alt="website" width="30"/><img align="left" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/scala.png" alt="website" width="20"/><a href="https://github.com/Kamil-Herbetko/Programming-Paradigms-Practice"> Programming paradigms - practice</a>
 
 
-
-
-[website]: http://justanotherpersonalwebsite.me/
 [linkedin]: https://www.linkedin.com/in/kamil-herbetko-947724222/
 [discord]: https://discordapp.com/users/354731471707045891/
 [facebook]: https://www.facebook.com/kamil.herbetko
