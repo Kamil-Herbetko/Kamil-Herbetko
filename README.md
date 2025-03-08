@@ -1,7 +1,7 @@
 # Welcome! I'm Kamil and this is my github repository. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I'm a Student, SW Engineer, and Computer Enthusiast!!
 
-- 🔭 I am working on quite a bit of project. Stay tuned!
+- 🔭 I am working on quite a bit of projects. Stay tuned!
 - 🌱 I’m currently learning a lot of things 🤔
 - 🥅 2024/2025 Goals: Get my Master Degree, stay productive at work and broaden my SW Engineer skills 💪💪💪
 - ⚡ Fun fact: I am also familiar with building computers!
