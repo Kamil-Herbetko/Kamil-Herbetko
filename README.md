@@ -14,8 +14,6 @@
     </tr>
 </table>
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code" width="430"/>
-
 ### Connect with me:
 [<img align="left" alt="Kamil-Herbetko" width="40" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/linkedin.png"/>][linkedin]
 [<img align="left" alt="Kamil-Herbetko" width="40" src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/discord.png" />][discord]
