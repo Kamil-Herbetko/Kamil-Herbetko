@@ -1,5 +1,5 @@
 # Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## I'm a SW Engineer, DevOps and H
+## I'm a SW Engineer, DevOps and Helix evangelist
 🥅 2026 Goals: Get stay productive at work and broaden my DevOps skills 💪💪💪
 
 ## My github stats:
